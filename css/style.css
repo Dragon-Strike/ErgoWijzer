@@ -63,10 +63,6 @@
     z-index: -1111;
 }
 
-.content {
-    padding: 0 20px;
-}
-
 h1 {
     text-align: center;
     margin-top: 10px;
@@ -87,24 +83,18 @@ section div {
 }
 
 section#intro {
-    background-image: url("img/rsi1.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 100vh;
+    background: url('../img/RSI_1.png') no-repeat center center/cover;
+    background-color: #ffffff;
 }
 
 section#wir {
-    background-image: url('img/rsi2.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 100vh;
+    background: url('../img/RSI_2.png') no-repeat center center/cover;
+    background-color: #ffffff;
 }
 
 section#hvjr {
-    background-image: url("img/rsi3.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 100vh;
+    background: url('../img/RSI_3.png') no-repeat center center/cover;
+    background-color: #ffffff;
 }
 
 iframe {
