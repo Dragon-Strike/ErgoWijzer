@@ -7,6 +7,10 @@
     scroll-behavior: smooth;
 }
 
+html {
+    overflow-y: scroll;
+}
+
 #header {
     position: fixed;
     height: 75px;
@@ -31,7 +35,7 @@
     color: #fff;
     text-transform: uppercase;
     text-decoration: none;
-    padding: 0 10px;
+    padding: 10px;
     transition: 0.4s;
 }
 
@@ -48,7 +52,8 @@
 }
 
 .show-menu-btn i {
-    line-height: 100px;
+    line-height: 75px;
+    margin-right: 10px;
 }
 
 .menu a:hover,
