@@ -101,23 +101,26 @@ h2{
 }
 
 .background-image1{
+    background-size: cover;
     background-repeat: no-repeat;
     height: 700px;
-    background: url(rsi1.jpg);
+    background-image: url(rsi1.jpg);
     border: 3px solid #925d06;
 }
 
 .background-image2{
+    background-size: cover;
     background-repeat: no-repeat;
     height: 700px;
-    background: url(rsi2.jpg);
+    background-image: url(rsi2.jpg);
     border: 3px solid #925d06;
 }
 
 .background-image3{
+    background-size: cover;
     background-repeat: no-repeat;
     height: 700px;
-    background: url(rsi3.jpg);
+    background-image: url(rsi3.jpg);
     border: 3px solid #925d06;
 }
 
