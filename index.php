@@ -13,11 +13,7 @@
 </html>
 <?php
 echo "hallo";
-<<<<<<< HEAD
 echo "hoi, alles goed?";
-
-=======
 echo "hoi";
 echo "mmm";
 ?>
->>>>>>> d30e1a8d45be68193a283a3d54d725adc01bc8f1
