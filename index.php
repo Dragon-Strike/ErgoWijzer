@@ -6,12 +6,10 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
     <title>ErgoWijzer</title>
 </head>
 <body>
-
-
 <div id="header">
     <h2 class="logo">ErgoWijzer</h2>
     <input type="checkbox" id="chk">
