@@ -13,6 +13,6 @@
 </html>
 <?php
 echo "hallo";
-echo "hoi"
-
+echo "hoi";
+echo "mmm";
 ?>
