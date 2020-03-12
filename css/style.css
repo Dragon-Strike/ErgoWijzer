@@ -89,7 +89,7 @@ section div {
 }
 
 section#intro {
-    background: url('../img/RSI_1.png') no-repeat center center/cover;
+    background: url('../img/RSI_4.png') no-repeat center center/cover;
     background-color: #ffffff;
 }
 
@@ -191,4 +191,11 @@ textarea {
     margin: 0 auto;
     display: block;
     resize: none;
+}
+
+footer {
+    background-color: #34495E;
+    height: 3vh;
+    text-align: center;
+    color: white;
 }
