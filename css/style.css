@@ -102,6 +102,9 @@ section#hoeVerkomJeRsi {
     background-color: #ffffff;
 }
 
+section#contact {
+    background-color:cornsilk;
+}
 iframe {
     margin-top: 10px;
     margin-left: 10px;
@@ -137,3 +140,7 @@ iframe {
         right: 0;
     }
 }
+
+
+
+
