@@ -84,10 +84,6 @@ section {
     height: 100vh;
 }
 
-section div {
-    padding-top: 75px;
-}
-
 section#intro {
     background: url('../img/RSI_4.png') no-repeat center center/cover;
     background-color: #ffffff;
@@ -105,6 +101,13 @@ section#hoeVerkomJeRsi {
 
 section#contact {
     background-color: cornsilk;
+}
+
+.content {
+    width: 90%;
+    height: 100vh;
+    padding-top: 75px;
+    margin: 0 auto;
 }
 
 iframe {
