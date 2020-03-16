@@ -90,7 +90,7 @@ section#intro {
 }
 
 section#watIsRsi {
-    background: url('../img/RSI_2.png') no-repeat center center/cover;
+    background: url('../img/RSI_5.png') no-repeat center center/cover;
     background-color: #ffffff;
 }
 
@@ -201,4 +201,7 @@ footer {
     height: 3vh;
     text-align: center;
     color: white;
+}
+h2{
+    color: black;
 }
