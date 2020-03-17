@@ -87,16 +87,19 @@ section {
 section#intro {
     background: url('../img/RSI_4.png') no-repeat center center/cover;
     background-color: #ffffff;
+    background-attachment: fixed;
 }
 
 section#watIsRsi {
     background: url('../img/RSI_5.png') no-repeat center center/cover;
     background-color: #ffffff;
+    background-attachment: fixed;
 }
 
 section#hoeVerkomJeRsi {
     background: url('../img/RSI_3.png') no-repeat center center/cover;
     background-color: #ffffff;
+    background-attachment: fixed;
 }
 
 section#contact {
@@ -202,6 +205,7 @@ footer {
     text-align: center;
     color: white;
 }
-h2{
+
+h2 {
     color: black;
 }
