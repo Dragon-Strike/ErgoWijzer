@@ -111,6 +111,7 @@ section#contact {
     height: 100vh;
     padding-top: 75px;
     margin: 0 auto;
+    background: rgba(255, 255, 255, 0.438);
 }
 
 iframe {
