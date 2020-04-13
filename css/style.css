@@ -148,6 +148,13 @@ iframe {
     #chk:checked~.menu {
         right: 0;
     }
+    .video {
+        width: 60%;
+        height: 39%;
+    }
+    .wit {
+        font-size: 1rem
+    }
 }
 
 input[type=text] {
