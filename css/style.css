@@ -212,13 +212,19 @@ h2 {
 }
 
 .button1 {
-    border-radius: 50%;
+    border-radius: 25%;
     position: fixed;
-    background-color: aqua;
+    background-color: #34495E;
+    color: white;
     float: right;
     height: 50px;
     width: 50px;
-    bottom: 100px;
+    bottom: 1vh;
     right: 1vw;
 }
 
+.button1:hover {
+    color: #3498db;
+    transition: 0.4s;
+    cursor: pointer;
+}
