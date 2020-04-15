@@ -86,7 +86,7 @@ h3 {
 
 section {
     width: 100%;
-    height: 190vh;
+    height: 100%;
 }
 
 section#intro {
@@ -115,11 +115,11 @@ section#Werkorganisatie {
 
 section#contact {
     background-color: cornsilk;
+    height: 100vh;
 }
 
 .content {
     width: 90%;
-    height: 190vh;
     padding-top: 75px;
     margin: 0 auto;
     background: rgba(255, 255, 255, 0.438);
