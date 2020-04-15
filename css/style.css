@@ -79,7 +79,8 @@ h2 {
     text-align: center;
     text-decoration: underline;
 }
-h3{
+
+h3 {
     text-align: center;
 }
 
@@ -94,14 +95,20 @@ section#intro {
     background-attachment: fixed;
 }
 
-section#watIsRsi {
+section#Werkhouding {
     background: url('../img/RSI_5.png') no-repeat center center/cover;
     background-color: #ffffff;
     background-attachment: fixed;
 }
 
-section#hoeVerkomJeRsi {
-    background: url('../img/RSI_3.png') no-repeat center center/cover;
+section#Werkplek {
+    background: url('../img/RSI_2.png') no-repeat center center/cover;
+    background-color: #ffffff;
+    background-attachment: fixed;
+}
+
+section#Werkorganisatie {
+    background: url('../img/RSI_2.png') no-repeat center center/cover;
     background-color: #ffffff;
     background-attachment: fixed;
 }
@@ -126,7 +133,7 @@ iframe {
 @media screen and (max-width:800px) {
     .show-menu-btn,
     .hide-menu-btn {
-    display: block;
+        display: block;
     }
     .menu {
         position: fixed;
@@ -239,15 +246,22 @@ h2 {
     transition: 0.4s;
     cursor: pointer;
 }
+
 p {
     text-align: center;
 }
-h3, h4, h5, h6{
+
+h3,
+h4,
+h5,
+h6 {
     text-align: center;
 }
+
 img {
     float: right;
 }
+
 li {
     text-align: center;
 }
