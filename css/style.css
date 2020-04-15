@@ -216,6 +216,8 @@ textarea {
     margin: 0 auto;
     display: block;
     resize: none;
+    width: 90%;
+    height: 150px;
 }
 
 footer {
